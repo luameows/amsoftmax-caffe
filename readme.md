@@ -38,7 +38,7 @@ caffe来源：[happyNear](https://github.com/happynear/caffe-windows)
 
 
 
-![train_loss](D:/amsoftmax/img/train_loss.jpg)
+![train_loss](./img/train_loss.jpg)
 
 ![val_loss](./img/val_loss.jpg)
 
