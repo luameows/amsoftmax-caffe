@@ -1,0 +1,14 @@
+net: "/home/user/lumo/resnet_amsoftmax_webface/train_test_112x96.prototxt"
+test_iter: 650
+test_interval: 1500
+base_lr: 0.01
+lr_policy: "step"
+gamma: 0.1
+stepsize: 20000
+momentum: 0.9
+weight_decay: 0.0005
+display: 1000
+max_iter: 300000
+snapshot: 10000
+snapshot_prefix: "/home/user/lumo/resnet_amsoftmax_webface/snapshot_finetune/"
+solver_mode: GPU
