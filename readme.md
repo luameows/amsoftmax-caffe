@@ -4,7 +4,7 @@
 
 论文来源：[Amsoftmax](https://arxiv.org/abs/1801.05599)
 
-论文笔记：[我的博客]()
+论文笔记：[我的博客](http://www.luameows.wang/2018/12/04/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0-AMSoftmax/#more)
 
 caffe来源：[happyNear](https://github.com/happynear/caffe-windows)
 
